@@ -7,7 +7,7 @@
     <ProjectGuid>{D2F5E4C0-7B9D-49E1-AA05-3CE72051A78B}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ClassLibrary1</RootNamespace>
+    <RootNamespace>sarmata</RootNamespace>
     <AssemblyName>ClassLibrary1</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
